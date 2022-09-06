@@ -7,3 +7,5 @@ https://censys.wpengine.com/tracking-deadbolt-ransomware-across-the-globe/
 https://www.trendmicro.com/en_us/research/22/f/closing-the-door-deadbolt-ransomware-locks-out-vendors-with-mult.html
 
 https://therecord.media/qnap-investigating-new-deadbolt-ransomware-campaign/
+
+https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html
