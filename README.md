@@ -11,3 +11,5 @@ https://therecord.media/qnap-investigating-new-deadbolt-ransomware-campaign/
 https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html
 
 https://www.politie.nl/nieuws/2022/oktober/14/09-nederlandse-gedupeerde-geholpen-in-unieke-ransomware-actie.html
+
+https://blog.group-ib.com/nas-under-threat
